@@ -1,0 +1,5 @@
+Modern Compiler Implementation in C
+
+[] Chapter 1 - Introduction : Techniques, Algos, Data Structs for Tree Lang
+[] Chapter 2 - Lexical Analysis
+[] Chapter 3 - Parser
